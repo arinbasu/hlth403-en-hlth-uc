@@ -1,7 +1,7 @@
 ---
 title: HLTH403 Environmental Health
 author: Arindam Basu
----
+...
 
 # Course outline and handbook for HLTH403: Environmental Health
 
