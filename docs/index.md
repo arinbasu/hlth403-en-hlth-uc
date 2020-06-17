@@ -141,7 +141,7 @@ Step by step instructions:
 5. Convert the document to PDF and upload to Learn Assessment page by 4th October, 2020, 5 PM. This is a hard deadline. You can submit earlier if you wish. 
 
 ## Links
-- the [official page of the course lives here](https://learn.canterbury.ac.nz/course/view.php?id=7186). 
+- the [Learn page of the course](https://learn.canterbury.ac.nz/course/view.php?id=7186) 
 
 For details about [the timetable and the course, visit this link](http://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH403&occurrence=17S2(D))
 
