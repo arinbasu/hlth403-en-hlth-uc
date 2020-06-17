@@ -145,6 +145,11 @@ Step by step instructions:
 
 For details about [the timetable and the course, visit this link](http://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH403&occurrence=17S2(D))
 
+Github repo: [https://github.com/arinbasu/hlth403-en-hlth-uc/blob/master/docs/index.md](https://github.com/arinbasu/hlth403-en-hlth-uc/blob/master/docs/index.md)
+
+Osfio: [https://osf.io/rfwve/](https://osf.io/rfwve/)
+
+
 
 
 
