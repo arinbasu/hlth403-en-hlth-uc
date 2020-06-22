@@ -70,9 +70,9 @@ The lecture schedule is as follows:
   - 9 AM - 3:30 PM: Enviromental Health Risk Assessment   
 - Block 2, 27th August HP 307
   - 9 AM - 1:00 PM: Hands on exercise on Environmental Health Risk Assessment
-  - 2:00 PM - 3:30 PM: Toxicology part I
+  - 2:00 PM - 3:30 PM: Toxicology part I (Professor Ian Shaw)
 - Block 3, 23rd September HP 308
-  - 9:00 AM - 3:30 PM: Toxicology part II
+  - 9:00 AM - 3:30 PM: Toxicology part II (Professor Ian Shaw)
 - Block 3, 24th September HP 308
   - 9:00 AM - 12:00 PM: Case studies in Environmental Health in Canterbury
   - 1:00 PM - 2:00 PM: Case study in Environmental Health, part II
