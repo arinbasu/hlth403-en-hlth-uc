@@ -1,6 +1,8 @@
 ---
 title: HLTH403 Environmental Health
 author: Arindam Basu
+tags: Environment, environment, health
+
 
 ---
 
@@ -57,29 +59,29 @@ The classes are held between 9 AM - 3:30 PM on the following dates:
 
 The lecture schedule is as follows:
 
-| Date           | Description                                   | Venue  |
-| -------------- | --------------------------------------------- | ------ |
-| 22nd July      | Course introduction                           | HP307  |
-|                | Environmental Epidemiology                    | HP 307 |
-|                | Case study in Environmental health            | HP 307 |
-| 23rd July      | Data analysis in Environmental Epidemiology   | HP 307 |
-|                | Discussion on the first assignment            | HP 307 |
-| 26th August    | Toxicology, part I                            | HP 307 |
-| 27th August    | Toxicology, part II                           | HP 307 |
-| 23rd September | Environmental Health Risk Assessment          | HP 308 |
-| 24th September | Case studies in Environmental Health, Summary | HP 308 |
-
+- Block 1, 22nd July, HP 307
+  - 9 AM - 10 AM: Introduction to the course and logistics
+  - 10 AM - 12 Noon: What are Epidemiology, Toxicology, EHRA?
+  - 1:00 PM - 2:00 PM: Case study in Environmental Health
+  - 2:00 - 3:30 PM: Guided discussions on Environmental Health
+- 23rd July, HP 307
+  - 9 AM - 3:30 PM: Environmental Epidemiology (Hands on)
+- Block 2, 26th August, HP 307
+  - 9 AM - 3:30 PM: Enviromental Health Risk Assessment   
+- Block 2, 27th August HP 307
+  - 9 AM - 1:00 PM: Hands on exercise on Environmental Health Risk Assessment
+  - 2:00 PM - 3:30 PM: Toxicology part I
+- Block 3, 23rd September HP 308
+  - 9:00 AM - 3:30 PM: Toxicology part II
+- Block 3, 24th September HP 308
+  - 9:00 AM - 12:00 PM: Case studies in Environmental Health in Canterbury
+  - 1:00 PM - 2:00 PM: Case study in Environmental Health, part II
+  - 2:00 PM - 3:30 PM: Closing
 
 ## Course coordinator/teachers
 - The course coordinator is Arindam Basu
 - [Email: arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
 - To make an appointment with Arindam, please visit the following link: [set up appointment with Arindam Basu](https://appoint.ly/s/arin_basu/face_to_face_meeting)
-
-- Professor Ian Shaw
-
-### Guest Lecturers
-- Dr Alistair Humphrey, CDHB
-- Dr. Jeff Foote, University of Otago
 
 ### Arindam Basu's Office address:
 Room 405F, Manawa Building,  
