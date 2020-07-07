@@ -1,7 +1,7 @@
 ---
 title: HLTH403 Environmental Health
 author: Arindam Basu
-tags: Environment, environment, health
+tags: environment, health, postgraduate
 
 
 ---
@@ -67,12 +67,12 @@ The lecture schedule is as follows:
 - 23rd July, HP 307
   - 9 AM - 3:30 PM: Environmental Epidemiology (Hands on)
 - Block 2, 26th August, HP 307
-  - 9 AM - 3:30 PM: Enviromental Health Risk Assessment   
+  - 9 AM - 3:30 PM: Enviromental Health Risk Assessment, Part I   
 - Block 2, 27th August HP 307
-  - 9 AM - 1:00 PM: Hands on exercise on Environmental Health Risk Assessment
-  - 2:00 PM - 3:30 PM: Toxicology part I (Professor Ian Shaw)
+  - 9 AM - 3:30 PM: Environmental Health Risk Assessment, Part II
+  
 - Block 3, 23rd September HP 308
-  - 9:00 AM - 3:30 PM: Toxicology part II (Professor Ian Shaw)
+  - 9:00 AM - 3:30 PM: Toxicology (Professor Ian Shaw)
 - Block 3, 24th September HP 308
   - 9:00 AM - 12:00 PM: Case studies in Environmental Health in Canterbury
   - 1:00 PM - 2:00 PM: Case study in Environmental Health, part II
@@ -114,9 +114,9 @@ Step by step instructions:
 8. The length of the annotated bibliography must be 1500 words or less. 
 9. The word count does not include words in tables, and figures.
 10. As this is an annotated bibliography, a separate citation list is not needed. You can add footnotes or endnotes.
-11. After you complete writing the annotated bibliography, submit a PDF version to the Learn site by **30th July, 2020, 5 PM** (this is a hard deadline, you can submit earlier)
+11. After you complete writing the annotated bibliography, submit a PDF version to the Learn site by **6th August, 5 PM** (this is a hard deadline, you can submit earlier)
 
-### A2. Assessment II: Write a simplified systematic map of an environmental health issue  (50%)
+### A2. Assessment II: Write a simplified systematic map of an environmental health issue  (40%)
 In this assessment, you will write a systematic map of an environmental issue.
 A systematic map is a document that lists relevant studies investigating an issue, in this case an environmental health related problem and analyses the literature. The entire process can be detailed and time consuming almost as complex as a systematic review. You will identify an environmental issue and develop a systematic map to answer a specific question. 
 
@@ -130,9 +130,9 @@ Step by step instructions:
 7. After writing the assignment, save the document as a PDF and upload to Learn in the assessments page
 8. The word limit for this exercise is 2000 words and word count excludes words included in figures, tables, and reference lists
 9. Use APA 7th Edition for citations
-10. Submit by 4th September, 2020, 5 PM. This is a hard deadline. You can submit earlier.
+10. Submit by 11th September, 2020, 5 PM. This is a hard deadline. You can submit earlier.
 
-### A3. Assessment III: Write a review of an Environmental Health Risk Assessment paper
+### A3. Assessment III: Write a review of an Environmental Health Risk Assessment paper (30%)
 In this assessment, you will critique and write a review of an existent Environmental Health Risk Assessment conducted by someone/some group. Find out such an assessment document, read it, and critique it with respect to the following four criteria: hazard identification (what hazard was identified and was the hazard identification process robust enough?), dose-response assessment (was dose-response assessment process robus and what is your interpretation of the dose-response assessment), exposure assessment (discuss the necessary toxicological perspectives), and finally summarise and critique the risk characterisation process and how can that information be used.
 
 Step by step instructions:
